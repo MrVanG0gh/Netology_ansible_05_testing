@@ -156,3 +156,6 @@ verify.yml:
 ![Screen07](https://github.com/MrVanG0gh/Netology_ansible_05_testing/blob/main/screens/Screen07.png)
 ![Screen08](https://github.com/MrVanG0gh/Netology_ansible_05_testing/blob/main/screens/Screen08.png)
 
+Ссылка на репозиторий:
+
+https://github.com/MrVanG0gh/Netology_ansible_04_role_vector-role/releases
