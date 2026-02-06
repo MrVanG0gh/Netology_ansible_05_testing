@@ -31,8 +31,8 @@
 ### Molecule
 
 Вывод работы команды `molecule test default` после инициализации директории с ролью "vector-role"
-![Screen01]()
-![Screen02]()
+![Screen01](https://github.com/MrVanG0gh/Netology_ansible_05_testing/blob/main/screens/Screen01.png)
+![Screen02](https://github.com/MrVanG0gh/Netology_ansible_05_testing/blob/main/screens/Screen02.png)
 
 Были добавлены несколько дополнительных дистрибутивов в файл molecule.yml:
 
