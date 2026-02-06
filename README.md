@@ -121,10 +121,14 @@ verify.yml:
       changed_when: False
 
 ```
-Осуществил проверку работы роли Вывод команды `molecule test` для  
+Осуществил проверку работы роли Вывод команды `molecule test`
 
+![Screen03](https://github.com/MrVanG0gh/Netology_ansible_05_testing/blob/main/screens/Screen03.png)
+![Screen04](https://github.com/MrVanG0gh/Netology_ansible_05_testing/blob/main/screens/Screen04.png)
 
+Оценив результаты, можно сказать, что в данном примере присутствуют предупреждения, но нет ошибок.
 
+---
 
 ### Tox
 
